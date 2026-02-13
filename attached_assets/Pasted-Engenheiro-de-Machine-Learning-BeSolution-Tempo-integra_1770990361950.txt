@@ -1,0 +1,69 @@
+Engenheiro de Machine Learning
+
+BeSolution · Tempo integral
+
+abr de 2025 - o momento · 11 meses
+
+Remoto
+
+Atuo como Engenheiro de Soluções de IA e MLOps, possuindo experiência robusta em todo o ciclo de vida de desenvolvimento de soluções de Inteligência Artificial, desde a Engenharia de Prompt até o Deploy em Produção. Minhas atividades incluem a criação de Agentes Inteligentes utilizando o framework ADK (Agent Development Kit) do Google, com foco em modelos Gemini e recursos da Vertex AI. 
+
+Também sou responsável pela implementação de sistemas RAG (Geração Aumentada de Recuperação), utilizando AlloyDB para acesso eficiente a dados e contexto. Em infraestrutura e deploy, possuo conhecimento em Google Cloud Platform (GCP), incluindo Cloud Run para serviços escaláveis, e na criação de endpoints de API com FastAPI. Adoto práticas de MLOps/DevOps, utilizando Git e GitHub para controle de versão, e implementando CI/CD (Continuous Integration/Continuous Delivery) no Azure DevOps para automação de pipelines. 
+
+Por fim, realizei o desenvolvimento de POCs (Provas de Conceito) com algoritmos de Machine Learning clássico (árvore de decisão e regressão).
+
+ Google Cloud Platform (GCP), Python e mais 1 competência
+
+Logo da empresa NTT DATA Europe & Latam
+Engenheiro de Machine Learning - Atuação (Setor Financeiro)
+
+NTT DATA Europe & Latam · Tempo integral
+
+fev de 2024 - abr de 2025 · 1 ano 3 meses
+
+São Paulo, São Paulo, Brasil
+
+O LinkedIn me ajudou a conseguir este emprego me ajudou a conseguir este emprego
+
+Engenheiro de Machine Learning com experiência na utilização de Python para desenvolver soluções que auxiliem na resolução de problemas de negócios. Atuação no desenvolvimento de códigos utilizando Programação Orientada a Objetos (POO), incluindo criação de classes e métodos, além de validação de dados com Pydantic para construir DTOs de forma eficiente.
+
+Familiaridade com testes unitários utilizando Pytest, aplicando fixtures e mark parametrize para garantir a funcionalidade do código. Experiência  no uso de bancos de dados vetoriais, como Weaviate, para manipulação de dados.
+
+Conhecimento prático em serviços da AWS, como AWS Batch, ECS, EKS, API Gateway, VPC e CloudWatch, com atividades relacionadas ao desenvolvimento e monitoramento de sistemas. Experiência no uso de ferramentas como Grafana e Datadog para monitoramento de métricas(observabilidade) e Insomnia para execução de requisições de APIs.
+
+Participação em atividades de atualização de versões de ferramentas e bibliotecas, como Python em Lambdas e LangChain para agentes. Colaboração em projetos de documentação técnica no SharePoint, além de suporte no deploy de agentes NLG.
+
+Foco em aprendizado e trabalho em equipe, auxiliando no onboarding de novos colegas e contribuindo com apresentações técnicas simples para compartilhar conhecimento do dia a dia. Experiência em identificar e corrigir bugs, com suporte à melhoria contínua do código e das aplicações.
+
+Com base no aprendizado constante e nas práticas colaborativas, contribuo com soluções técnicas que apoiam as demandas do time e o alcance dos objetivos do negócio.
+
+Logo da empresa Tacira Technologies
+Analista de dados
+
+Tacira Technologies · Tempo integral
+
+fev de 2022 - fev de 2024 · 2 anos 1 mês
+
+Criação de relatórios de B.I, automação de processos, geração de indicadores e análise de dados.
+
+Logo da empresa TIM Brasil
+Cyber Security Analyst
+
+TIM Brasil · Estágio
+
+jan de 2021 - jan de 2022 · 1 ano 1 mês
+
+Remoto
+
+Análise de processos, geração de indicadores, controle de acesso, PAM/IAM.
+
+Logo da empresa Universidade Federal do ABC - UFABC
+Assistente de Engenharia de controle
+
+Universidade Federal do ABC - UFABC · Estágio
+
+jul de 2019 - ago de 2019 · 2 meses
+
+São Bernardo do Campo, São Paulo, Brasil · No local
+
+Estágio voluntário, para obtenção do título de Engenheiro Aeroespacial, atuei na área de sistemas de controle no laboratório de sistemas aeroespaciais da UFABC. O Objetivo foi auxiliar um aluno de mestrado no sistema de controle de um drone, com ensaios de testes, simulação e análise de controle.
